@@ -14,11 +14,8 @@ https://aidatadashboard.streamlit.app/
 - Upload CSV files
 - Automatic data preview
 - Statistical summary of dataset
-- Remove unwanted columns (like Unnamed columns)
 - Interactive line and histogram charts
 - SQL query execution on dataset
-- Data filtering and exploration
-- Download processed data
 
 ---
 
