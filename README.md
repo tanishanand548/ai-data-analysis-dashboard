@@ -43,7 +43,7 @@ https://aidatadashboard.streamlit.app/
 ## ▶️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/ai-data-dashboard.git
+git clone https://github.com/tanishanand548/ai-data-analysis-dashboard.git
 
 cd ai-data-dashboard
 
